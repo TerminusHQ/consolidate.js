@@ -1,6 +1,6 @@
 {
-  "name": "consolidate",
-  "version": "0.14.1",
+  "name": "@terminus/consolidate",
+  "version": "0.14.2",
   "description": "Template engine consolidation library",
   "keywords": [
     "template",
